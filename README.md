@@ -36,7 +36,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/biswajit-behera-a91857145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/biswajit-behera-a91857145" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/akash7328/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akash7328/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sigmaa_012?igsh=cjh0bti2dwq3zje1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sigmaa_012?igsh=cjh0bti2dwq3zje1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sigmaa_012?igsh=cjh0bTI2dWQ3ZjE1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sigmaa_012?igsh=cjh0bti2dwq3zje1" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/560037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="560037" height="30" width="40" /></a>
 </p>
 
