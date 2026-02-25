@@ -1,36 +1,37 @@
-<h1 align="center">Hi 👋, I'm AKASH</h1>
-<h3 align="center">Python Full-Stack Developer | Building Scalable Web Applications</h3>
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/003/820/811/small/python-programming-language-programing-workflow-abstract-algorithm-concept-on-virtual-screen-photo.jpg" alt="MasterHead" />
-</p>
+
+<h3 align="center">Python Full-Stack Developer | Building Scalable Applications</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit7328&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit7328" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswajit7328" alt="biswajit7328" /></a> </p>
-
 <p align="center">
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Biswajit%20Behera&fontSize=56&fontColor=ffffff&animation=twinkling&gradient=1&color=0:00F5FF,25:7F00FF,50:FF0080,75:FF8C00,100:00F5FF" />
 </p>
 
-<!-- 👇 Below MasterHead: Left text + Right GIF -->
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycTZtYjhmbW5jcjQ4M2ZnM3VscGx4MnJ5cHh2NW5nemJ2ZTE2d3F6ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
+</p>
 
-<table>
-  <tr>
-    <td width="60%">
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code.+Debug.+Optimize.+Repeat.+🐍;Turning+☕+into+Scalable+Python+Solutions;while+True:+learn()+build()+improve()" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&gradient=1&color=0:00F5FF,50:FF0080,100:7F00FF"/>
+</p>
+
       
 - 🔭 I’m currently working on **Smart Energy Monitoring System (Django Project)**  
 - 🌱 I’m currently learning **Django**  
 - 👨‍💻 All of my projects are available at [github.com/biswajit7328](https://github.com/biswajit7328)  
-- 💬 Ask me about **Python, SQL**  
+- 💬 Ask me about **Python,SQL,Django**  
 - 📫 Reach me at **biswajit7328@gmail.com**  
 - ⚡ Fun fact: I'm Funny  
       
-    </td>
-    <td width="40%" align="right">
-      <img src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif" width="350" alt="OOP Trends GIF" />
-    </td>
-  </tr>
-</table>
+ >
 
 
 
