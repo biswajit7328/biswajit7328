@@ -2,7 +2,7 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Python+Full-Stack+Developer;Building+Scalable+Applications;Django+%7C+REST+API+%7C+SQL;Clean+Code+%7C+Optimized+Performance&color=FF0000&color=00FF00&color=0000FF&color=FF00FF&color=00FFFF&color=FFFF00" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=750&lines=Python+Full-Stack+Developer;Building+Scalable+Applications;Django+%7C+Python+%7C+SQL;Clean+Code+%7C+Optimized+Performance&color=FF0000&color=00FF00&color=0000FF&color=FF00FF&color=00FFFF&color=FFFF00" 
       alt="RGB Typing SVG" 
     />
   </a>
