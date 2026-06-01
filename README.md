@@ -44,7 +44,7 @@
 
 <!-- ✅ HORIZONTAL ICONS -->
 <p align="le">
-  <a href="http://www.linkedin.com/in/biswajit7328" target="_blank">
+  <a href="http://www.linkedin.com/in/akbiswajit7328" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
   
