@@ -228,7 +228,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://biswajit7328resume.tiiny.site" target="_blank">
+<a href="https://yellow-modestine-67.tiiny.site" target="_blank">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
